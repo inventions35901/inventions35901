@@ -7,7 +7,15 @@
 - Hello World!
 - 
 <h2>📺 Certifications</h2>
+<h2>Certifications</h2>
 
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA IT Operations Specialist (CIOS)
+- CompTIA Secure Infrastructure Specialist (CSIS)
+
+<br />
 
 
 <h2> 🤳 Connect with me:</h2>
