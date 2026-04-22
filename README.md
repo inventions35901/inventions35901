@@ -4,6 +4,8 @@
 
 - [Active Directory Home Lab](https://github.com/inventions35901/ActiveDirectoryLab/blob/main/README.md)
 - [Microsoft Intune Device Enrollment Lab](https://github.com/inventions35901/DeviceEnrollmenttoMicrosoftIntune)
+- [Active Directory Security Audit: Privileged Access Review](https://github.com/inventions35901/active-directory-privileged-access-security-audit)
+
 - Hello World!
 - 
 <h2>📺 Certifications</h2>
