@@ -6,7 +6,7 @@
 - [Microsoft Intune Device Enrollment Lab](https://github.com/inventions35901/DeviceEnrollmenttoMicrosoftIntune)
 - [Active Directory Security Audit: Privileged Access Review](https://github.com/inventions35901/Active-Directory-Security-Audit-Privileged-Access-Review)
 - [Malware Detection Lab Windows Security](https://github.com/inventions35901/malware-detection-lab-windows-security)
-- 
+- [SCCM Lab Windows Server SQL](https://github.com/inventions35901/SCCM-Lab-Windows-Server-SQL)
   
 - Hello World!
 - 
